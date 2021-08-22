@@ -40,7 +40,7 @@ There are a couple of ways to configure the miner.
 
 For example:
 ```
-./violetminer --algorithm turtlecoin --pool trtl.pool.mine2gether.com:10380 --username TRTLv2Fyavy8CXG8BPEbNeCHFZ1fuDCYCZ3vW5H5LXN4K2M2MHUpTENip9bbavpHvvPwb4NDkBWrNgURAd5DB38FHXWZyoBh4wW
+./violetminer --algorithm turtlecoin --pool hk.turtlecoin.herominers.com:10380 --username TRTLuxryQNFHYZZpdXytx954j1aNvC41kRscebPwAuDb9PiQbqH4eYfjbtbh4Cd8DDfwvdb7ibRXFA39T3SSqL2XW8a9g3Wsxiq
 ```
 
 * Copy the below config to `config.json` and modify to your purposes.
