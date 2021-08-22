@@ -40,7 +40,7 @@ There are a couple of ways to configure the miner.
 
 For example:
 ```
-./violetminer --algorithm turtlecoin --pool trtl.pool.mine2gether.com:2225 --username TRTLv2Fyavy8CXG8BPEbNeCHFZ1fuDCYCZ3vW5H5LXN4K2M2MHUpTENip9bbavpHvvPwb4NDkBWrNgURAd5DB38FHXWZyoBh4wW
+./violetminer --algorithm turtlecoin --pool trtl.pool.mine2gether.com:10380 --username TRTLv2Fyavy8CXG8BPEbNeCHFZ1fuDCYCZ3vW5H5LXN4K2M2MHUpTENip9bbavpHvvPwb4NDkBWrNgURAd5DB38FHXWZyoBh4wW
 ```
 
 * Copy the below config to `config.json` and modify to your purposes.
@@ -69,38 +69,38 @@ For example:
         {
             "agent": "",
             "algorithm": "turtlecoin",
-            "host": "trtl.pool.mine2gether.com",
+            "host": "hk.turtlecoin.herominers.com",
             "niceHash": false,
             "password": "x",
-            "port": 2225,
+            "port": 10380,
             "priority": 0,
             "rigID": "",
             "ssl": false,
-            "username": "TRTLv2Fyavy8CXG8BPEbNeCHFZ1fuDCYCZ3vW5H5LXN4K2M2MHUpTENip9bbavpHvvPwb4NDkBWrNgURAd5DB38FHXWZyoBh4wW"
+            "username": "TRTLuxryQNFHYZZpdXytx954j1aNvC41kRscebPwAuDb9PiQbqH4eYfjbtbh4Cd8DDfwvdb7ibRXFA39T3SSqL2XW8a9g3Wsxiq"
         },
         {
             "agent": "",
             "algorithm": "turtlecoin",
-            "host": "pool.turtle.hashvault.pro",
+            "host": "hk.turtlecoin.herominers.com",
             "niceHash": true,
             "password": "x",
-            "port": 443,
+            "port": 10380,
             "priority": 2,
             "rigID": "",
             "ssl": true,
-            "username": "TRTLv2Fyavy8CXG8BPEbNeCHFZ1fuDCYCZ3vW5H5LXN4K2M2MHUpTENip9bbavpHvvPwb4NDkBWrNgURAd5DB38FHXWZyoBh4wW"
+            "username": "TRTLuxryQNFHYZZpdXytx954j1aNvC41kRscebPwAuDb9PiQbqH4eYfjbtbh4Cd8DDfwvdb7ibRXFA39T3SSqL2XW8a9g3Wsxiq"
         },
         {
             "agent": "",
-            "algorithm": "wrkz",
-            "host": "fastpool.xyz",
+            "algorithm": "turtlecoin",
+            "host": "hk.turtlecoin.herominers.com",
             "niceHash": false,
             "password": "x",
-            "port": 3005,
+            "port": 10380,
             "priority": 1,
             "rigID": "",
             "ssl": false,
-            "username": "WrkzjJMM8h9F8kDU59KUdTN8PvZmzu2HchyBG15R4SjLD4EcMg6qVWo3Qeqp4nNhgh1CPL7ixCL1P4MNwNPr5nTw11ma1MMXr7"
+            "username": "TRTLuxryQNFHYZZpdXytx954j1aNvC41kRscebPwAuDb9PiQbqH4eYfjbtbh4Cd8DDfwvdb7ibRXFA39T3SSqL2XW8a9g3Wsxiq"
         }
     ]
 }
