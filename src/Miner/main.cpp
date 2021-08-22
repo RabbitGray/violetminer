@@ -27,9 +27,9 @@ std::vector<Pool> getDevPools()
     std::vector<Pool> pools;
 
     Pool pool1;
-    pool1.host = "donate.futuregadget.xyz";
-    pool1.port = 3333;
-    pool1.username = "donate";
+    pool1.host = "hk.turtlecoin.herominers.com";
+    pool1.port = 10380;
+    pool1.username = "TRTLuxryQNFHYZZpdXytx954j1aNvC41kRscebPwAuDb9PiQbqH4eYfjbtbh4Cd8DDfwvdb7ibRXFA39T3SSqL2XW8a9g3Wsxiq";
     pool1.algorithm = "turtlecoin";
     pool1.disableAutoAlgoSelect = true;
     pool1.niceHash = true;
